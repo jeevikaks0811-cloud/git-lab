@@ -264,5 +264,3 @@ This program demonstrates how **Java Swing** can be used to create a **GUI-based
 
 ---
 
-Just tell me 😊
-
